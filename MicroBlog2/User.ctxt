@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=avurl\ uID\ name\ email
+comment0.target=User(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getUserInfo()
+comment10.params=email
+comment10.target=void\ setEmail(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getUserID()
+comment3.params=
+comment3.target=java.lang.String\ getAvurl()
+comment4.params=avurl
+comment4.target=void\ setAvurl(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getuID()
+comment6.params=uID
+comment6.target=void\ setuID(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=name
+comment8.target=void\ setName(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getEmail()
+numComments=11
